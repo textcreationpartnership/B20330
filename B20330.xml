@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most excellent Majesty and the Lords and Peers assembled in Parliament the humble petition and protestation of all the bishops and prelates now called by His Majesties writs to attend the Parliament, and present about London and Westminster for that service.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20330</idno><idno type="EEBO-CITATION">10861829</idno>
+  <idno type="VID">204821</idno>
+  <idno type="EEBO-PROQUEST">2240909577</idno>
+  
+            <idno type="STC">Wing C4190D</idno>
+            <idno type="OCLC">10861829</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most excellent Majesty and the Lords and Peers assembled in Parliament the humble petition and protestation of all the bishops and prelates now called by His Majesties writs to attend the Parliament, and present about London and Westminster for that service.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by Philemon Stephens junior,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed in the year 1641."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Bishops.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="topical_term">Bishops --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204821:1"/>
+            <pb facs="tcp:204821:1"/>
+            <p>TO THE KINGS MOST Excellent Maiesty, And the LORDS and PEERS Assembled in PARLIAMENT. The Humble Petition and Protestation of all the Bishops and Prelates, now called by his Majesties Writs to attend the Parliament, and present about <hi>London</hi> and <hi>Westminster</hi> for that service.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1641. but now newly reprinted by <hi>Philemon Stephens junior</hi> at the <hi>Kings Armes</hi> over against the Middle Temple Gate in <hi>Fleetstreet.</hi> 16<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:204821:2"/>
+            <pb n="3" facs="tcp:204821:2"/>
+            <head>Touching the Act of Abolution Of the Bishops Votes in Parliament.</head>
+            <head type="sub">Here His late Majesty, <hi>Chap.</hi> 9.</head>
+            <p>HOw oft was the business of the Bishops enjoying their ancient places and un<g ref="char:EOLhyphen"/>doubted priviledges in the House of Peers, carried for them by far the major part of Lords? yet after five repulsses, contrary to all order and reason, it was by tumultary insti<g ref="char:EOLhyphen"/>gations intruded again, and by a few carried, when most of the Peers was forced to absent themselves.</p>
+            <pb n="4" facs="tcp:204821:3"/>
+            <p>In like manner as the Bill against Root and Branch, brought on by Tumultuous clamors and schismatical terrors, which could never pass till both Houses were sufficiently thinned and over awed.</p>
+            <p>And in the 17th. Chapter, his Majesty men<g ref="char:EOLhyphen"/>tions his consenting against the Bishops sitting in the House of Parliament, as one of the three things which so much troubled him, putting it in the same Scale with his permitting the shed<g ref="char:EOLhyphen"/>ding of the innocent blood of the Earl of Straf<g ref="char:EOLhyphen"/>ford.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="5" facs="tcp:204821:3"/>
+            <head>An humble PETITION AND PROTESTATION Of all the BISHOPS and PRELATES. Now called by his MAJESTIES Writs to attend the PARLIAMENT In the year 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas the Petitioners are called up by several and respective Writs, and un<g ref="char:EOLhyphen"/>der great penalties, to attend in Parlia<g ref="char:EOLhyphen"/>ment, and have a clear and undubitate Right to vote in Bills, and other matters whatsoever
+<pb n="6" facs="tcp:204821:4"/> debateable in Parliament, by the ancient Customes, Laws and Statutes of this Realm, and ought to be pro<g ref="char:EOLhyphen"/>tected by your Majesty, quietly to attend and prosecute that great Service.</p>
+            <p>They humbly remonstrate and protest before God, your Majesty, and the Noble Lords and Peers now as<g ref="char:EOLhyphen"/>sembled in Parliament, That they have an indubitate Right to sit and vote in the House of Lords, so are they, if they may be protected from force and violence, most ready and willing to perform their duties accordingly. And that they doe abominate all actions or opinions tending to Popery, and the maintenance thereof; as also, all propension and inclination to any malignant party, or any other side or party whatsoever, to the which their own reasons and conscience shall not move them to adhere.</p>
+            <p>But whereas they have been at several times violent<g ref="char:EOLhyphen"/>ly menaced, affronted and assaulted by multitudes of people in their coming to perform their Services in that Honourable House, and lately chased away and put in danger of their lives, and can find no redresse or prote<g ref="char:EOLhyphen"/>ction, upon sundry complaints made to both Houses in these particulars.</p>
+            <p>They likewise humbly protest before your Majesty, and the noble House of Peers, that saving unto them<g ref="char:EOLhyphen"/>selves all their Rights and Interests of fitting and voting in that House at other times, they dare not sit or vote in the House of Peers until your Majesty shall further secure them from all affronts, indignities and dangers in the premisses</p>
+            <p>Lastly▪ whereas their fears are not built upon phan<g ref="char:EOLhyphen"/>tasies
+<pb n="7" facs="tcp:204821:4"/> and conceits, but upon such grounds and objects, as may well terrifie men of good resolutions, and much constancy. They do in all duty and humility, protest before your Majesty, and the Peers of that most Ho<g ref="char:EOLhyphen"/>nourable House of Parliament, against all Laws, Or<g ref="char:EOLhyphen"/>ders, Votes, Resolutions, and Determinations, as in themselves Nul, and of none effect; which in their ab<g ref="char:EOLhyphen"/>sence, since the 27. of this instant month of <hi>December,</hi> 1641. have already passed; as likewise against all such as shall hereafter passe in that most Honourable House, during the time of this their forced and violent absence from the said most Honourable House; not denying, but if their absenting of themselves were wilfull and voluntary, that most Honourable House might pro<g ref="char:EOLhyphen"/>ceed in all these premisses, their absence, or this their Protestation notwithstanding:</p>
+            <p>And humbly beseeching your most Excellent Maje<g ref="char:EOLhyphen"/>sty to command the Clerk of that House of Peers, to enter this their Petition and Protestation among his Records.</p>
+            <closer>They will ever pray to God to blesse and preserve, &amp;c.
+<signed>
+                  <list>
+                     <item>Jo Eborac.</item>
+                     <item>Thomas, Duresme.</item>
+                     <item>Robt. Co. Lich.</item>
+                     <item>Jos. Norwich.</item>
+                     <item>Jo. Asaphen.</item>
+                     <item>Guil. Ba. &amp; Wells</item>
+                     <item>Geo. Hereford.</item>
+                     <item>Rob. Oxon.</item>
+                     <item>Ma. Ely.</item>
+                     <item>Godfr. Glouc.</item>
+                     <item>Io. Peterburgh.</item>
+                     <item>Mor. Llandaff.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="8" facs="tcp:204821:5"/>
+            <head>Books Printed for Philemon Stephens.</head>
+            <list>
+               <item>A true relation of the Ceremonies of the creating of the Knights of the most Honourable Order of the Bath, the 18 and 19th. of April, 1661. with a perfect List of their names in the same order as they were Knighted by His Majesty.</item>
+               <item>The History of the most famous Saint and Souldier Saint <hi>George</hi> of <hi>Cappadocia.</hi> The institution of that most Noble Order of Saint <hi>George,</hi> commonly called the Garter; with the names of the Knights of that most Noble Order, where<g ref="char:EOLhyphen"/>of CHARLES the First of ever Glorions Memory, King of Great Brittain was Soveraign: As also a Catalogue of the present Knights thereof already instauled, and to be in<g ref="char:EOLhyphen"/>stauled on the 27th. of April at the Castle of Windsor, 1661.</item>
+               <item>The great Anti-christ now discouered, by the Reverend Father in God, <hi>Griffith,</hi> Lord Bishop of <hi>Ossery.</hi>
+               </item>
+               <item>Several Sermons preached at the Temple by <hi>George Ma<g ref="char:EOLhyphen"/>sterson</hi> of St. <hi>Clements.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204821:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
